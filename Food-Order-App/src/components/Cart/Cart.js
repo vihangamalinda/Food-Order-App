@@ -19,8 +19,6 @@ const Cart = () => {
             <div className={classes.actions}>
                 <button className={classes.button}>Order</button>
                 <button className={classes["button--alt"]}>Close</button>
-
-
             </div>
         </Modal>
     )
